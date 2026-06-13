@@ -21,6 +21,14 @@ During inference we use nemo TN normalized UTF-8 bytes and an ECAPA-TDNN embeddi
   <img src="./assets/zonos2_arlooop_animated.gif" alt="ZONOS2 title card" width="750" />
 </p>
 
+Language support is as follows.
+| Tier   | Languages                                                                                                                                                                                      |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tier 1 | English, Mandarin Chinese, Japanese                                                                                                                                                            |
+| Tier 2 | Korean, Russian, Italian, Portuguese, French, Spanish, Vietnamese, German, Hebrew, Dutch                                                                                                       |
+| Tier 3 | Swedish, Hindi, Tamil, Telugu, Thai, Norwegian, Bengali, Tagalog, Arabic, Danish, Indonesian, Polish, Ukrainian, Romanian, Finnish, Hungarian, Lithuanian, Estonian, Slovak, Croatian, Latvian |
+
+
 For local inference we provide a high-performance TTS inference server built on [Mini-SGLang](https://github.com/sgl-project/mini-sglang).
 
 **For more details and speech samples, check out our [blog](https://www.zyphra.com/our-work/zonos2).**
